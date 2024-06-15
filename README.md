@@ -39,7 +39,7 @@ Experienced Java Programmer, specialized in developing web applications using Ja
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Pedro Luiz Foganholi](https://www.linkedin.com/in/pedroluizfoganholi/)
+- **LinkedIn**: [Pedro Luiz Foganholi](https://www.linkedin.com/in/pedro-luiz-foganholi-928a8313b/)
 - **Email**: [pedro.foganholi3@hotmail.com]
 
 ## 💡 Interests
